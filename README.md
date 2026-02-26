@@ -58,7 +58,7 @@
 ## 🔗 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/arun-tata0408"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="https://github.com/Aruntata-2001/Aruntata-2001"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
+  <a href="https://github.com/Aruntata-2001"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
 </p>
 
 
